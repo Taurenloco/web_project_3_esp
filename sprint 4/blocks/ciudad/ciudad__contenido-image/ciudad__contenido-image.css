@@ -1,0 +1,25 @@
+.ciudad__contenido-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0%;
+    width: min(98%,100%);
+    height: 100%;
+  }
+  @media screen and (min-width: 320px) and (max-width: 767px){
+    .ciudad__contenido-image {
+      width: 98%;
+      height: 100%;
+      margin-top: 10%;
+      margin-left: 10px;
+      order: 4;
+    }
+  }
+ @media screen and (min-width: 768px) and (max-width: 1279px) {
+    .ciudad__contenido-image {
+      width: 100%;
+      height: 100%;
+      margin-top: 0;
+    } 
+  }

@@ -1,0 +1,37 @@
+.visitanos__contenido-boton {
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  padding: 13px 20px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 13.7px;
+  display: flex;
+  justify-content: center;
+  width: 17%;
+  margin: auto;
+  margin-bottom: 209px;
+  margin-top: 22px;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .visitanos__contenido-boton {
+    width: 195px;
+    font-size: 18px;
+    position: relative;
+    z-index: 1;
+    margin: auto;
+  }
+
+  .visitanos__contenido-boton:hover {
+    opacity: 1;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .visitanos__contenido-boton {
+    width: 26%;
+    font-size: 18px;
+    margin: auto;
+    margin-bottom: 190px;
+  }
+}

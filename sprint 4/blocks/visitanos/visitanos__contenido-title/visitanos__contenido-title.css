@@ -1,0 +1,38 @@
+.visitanos__contenido-title {
+  color: #fff;
+  font-family: Inter;
+  font-size: 72px;
+  width: 656px;
+  font-weight: 900;
+  line-height: 105.556%;
+  margin-top: 24%;
+
+  height: 76px;
+  font-size: 72px;
+  width: 656px;
+  margin: auto;
+  margin-top: 172px;
+  margin-bottom: 0;
+  line-height: 76px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .visitanos__contenido-title {
+    font-size: 32px;
+    width: 288px;
+    height: 35px;
+    position: relative;
+    z-index: 1;
+    margin: auto;
+    margin-top: 45px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px){
+  .visitanos__contenido-title {
+    height: 76px;
+    font-size: 56px;
+    margin: auto;
+    margin-top: 190px;
+    margin-bottom: 0;
+  }
+}

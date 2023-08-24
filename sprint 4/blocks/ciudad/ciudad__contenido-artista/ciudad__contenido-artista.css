@@ -1,0 +1,22 @@
+.ciudad__contenido-artista {
+    color: #aaa;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 5;
+    line-height: 125%;
+    font-stretch: condensed;
+    width: 100%;
+    margin-left: 4%;
+  }
+  @media screen and (min-width: 320px) and (max-width: 767px){
+    .ciudad__contenido-artista {
+      margin-bottom: 5px;
+      order: 2;
+    }
+  }
+ @media screen and (min-width: 768px) and (max-width: 1279px) {
+    .ciudad__contenido-artista{
+      width: 40%;
+    }
+  }

@@ -1,0 +1,30 @@
+.ciudad__contenido-boton {
+  height: 48px;
+  border-radius: 4px;
+  background: #0278fe;
+  color: #fff;
+  border: none;
+  font-family: Inter;
+  cursor: pointer;
+  text-align: center;
+  width: 56%;
+  font-size: 18px;
+  margin-top: 8%;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .ciudad__contenido-boton {
+    font-size: 15px;
+    margin-left: 3%;
+    text-align: center;
+    width: 95%;
+    margin-top: 0;
+    margin-bottom: 4%;
+    order: 7;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .ciudad__contenido-boton {
+    width: 100%;
+    margin-top: 15%;
+  }
+}

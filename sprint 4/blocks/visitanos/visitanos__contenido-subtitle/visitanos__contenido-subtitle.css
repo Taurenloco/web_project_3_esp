@@ -1,0 +1,30 @@
+.visitanos__contenido-subtitle {
+  color: #fff;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: lighter;
+  line-height: 125%;
+  width: 280px;
+  margin-left: 5%;
+  margin: auto;
+  margin-top: -6%;
+
+  margin: auto;
+  margin-top: 20px;
+}
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .visitanos__contenido-subtitle {
+    font-size: 15px;
+    position: relative;
+    z-index: 1;
+    margin: auto;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px){
+  .visitanos__contenido-subtitle {
+    font-size: 18px;
+    margin: auto;
+    margin-top: 1%;
+  }
+}
+

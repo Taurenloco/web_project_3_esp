@@ -1,0 +1,44 @@
+@import url("./styles/normalize.css");
+@import url("./fonts/inter.css");
+@import url("blocks/pagina/pagina.css");
+@import url("blocks/body/body.css");
+/*header*/
+@import url("blocks/header/header.css");
+@import url("blocks/header/header__logo1/header__logo1.css");
+/* Patria */
+@import url("blocks/patria/patria.css");
+@import url("blocks/patria/patria__contenido/patria.css");
+@import url("blocks/patria/patria__contenido-title/patria__contenido-title.css");
+@import url("blocks/patria/patria__contenido-subtitle/patria__contenido-subtitle.css");
+@import url("blocks/patria/patria__contenido-image/patria__contenido-image.css");
+/* Introduccion */
+@import url("blocks/introduccion/introduccion.css");
+@import url("blocks/introduccion/introduccion__contenido/introduccion__contenido.css");
+@import url("blocks/introduccion/introduccion__contenido-title/introduccion__contenido-title.css");
+@import url("blocks/introduccion/introduccion__contenido-text/introduccion__contenido-text.css");
+@import url("blocks/introduccion/introduccion__contenido-footer/introduccion__contenido-footer.css");
+@import url("blocks/introduccion/introduccion_contenido-text2/introduccion_contenido-text2.css");
+/* Galeria */
+@import url("blocks/galeria/galeria.css");
+@import url("blocks/galeria/galeria__contenido/galeria__contenido.css");
+@import url("blocks/galeria/galeria__contenido-image/galeria__contenido-image.css");
+/* Ciudad */
+@import url("blocks/ciudad/ciudad.css");
+@import url("blocks/ciudad/ciudad__contenido/ciudad__contenido.css");
+@import url("blocks/ciudad/ciudad__contenido-title/ciudad__contenido-title.css");
+@import url("blocks/ciudad/ciudad__contenido-image/ciudad__contenido-image.css");
+@import url("blocks/ciudad/ciudad__contenido-boton/ciudad__contenido-boton.css");
+@import url("blocks/ciudad/ciudad__descripcion/ciudad__descripcion.css");
+@import url("blocks/ciudad/ciudad__contenido-artista/ciudad__contenido-artista.css");
+@import url("blocks/ciudad/ciudad__contenido-nombre/ciudad__contenido-nombre.css");
+@import url("blocks/ciudad/ciudad__contenido-text/ciudad__contenido-text.css");
+@import url("blocks/ciudad/ciudad__contenido-text2/ciudad__contenido-text2.css");
+/* Visitanos */
+@import url("blocks/visitanos/visitanos__contenido/visitanos__contenido.css");
+@import url("blocks/visitanos/visitanos__contenido-title/visitanos__contenido-title.css");
+@import url("blocks/visitanos/visitanos__contenido-subtitle/visitanos__contenido-subtitle.css");
+@import url("blocks/visitanos/visitanos__contenido-boton/visitanos__contenido-boton.css");
+/* footer */
+@import url("blocks/footer/footer__contenido/footer__contenido.css");
+@import url("blocks/footer/footer__contenido-title/footer__contenido-title.css");
+

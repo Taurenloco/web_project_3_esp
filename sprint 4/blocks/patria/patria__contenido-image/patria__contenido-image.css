@@ -1,0 +1,30 @@
+.patria__contenido-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 10%;
+  margin-top: 10%;
+  filter: grayscale(100%);
+
+  width: 984px;
+  height: 615px;
+  margin-top: 6%;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .patria__contenido-image {
+    margin-bottom: 0%;
+    width: 100%;
+    height: 100%;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .patria__contenido-image {
+    width: 100%;
+    height: 480px;
+    margin-bottom: 0%;
+  }
+}

@@ -1,0 +1,19 @@
+.footer__contenido-title {
+    color: #fff;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 60px;
+    margin-bottom: 26px;
+    font-weight: lighter;
+  }
+  @media screen and (min-width: 320px) and (max-width: 767px){
+    .footer__contenido-title {
+      color: #fff;
+    }
+  }
+ @media screen and (min-width: 768px) and (max-width: 1279px) {
+
+  }
+  @media screen and (min-width: 1280px) {
+
+  }
